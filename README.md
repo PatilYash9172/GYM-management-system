@@ -1,3 +1,6 @@
+
+Project Title : Gym Management system
+
 List of Project group Members
 
 Name:-Patil Yash Machhindra Roll no : DS057 PRN NO : 231106059
@@ -8,9 +11,8 @@ Name:- Tejas Lotan Mali Roll no :DS054 PRN NO : 231106056
 
 Name:- Kalpesh Rajendrabhai Patil Roll no : DS033 PRN NO:231106032
 
-Branch : computer science eng & (data science)
+Branch : computer science eng & (data science) (2024 & 2025 )
 
-Project Title : Gym Management system
 
 Abstract: A Gym Management System is a software application designed to streamline and automate various operations within a gym or fitness center. This system helps in managing member registrations, attendance tracking, subscription plans, payments, trainer schedules, and workout routines efficiently. It enhances user experience by providing online booking, progress tracking, and personalized fitness plans. Additionally, it simplifies administrative tasks for gym owners by generating reports and managing inventory. By integrating technology, the Gym Management System improves overall efficiency, reduces manual work, and enhances customer satisfaction Domain/Technology: PHP and MySQL Technology Used: • Frontend: HTML, CSS, JavaScript, Bootstrap • Backend: PHP, MySQL, Apache • Security: Password Hashing, Role-Based Authenticatio • API Integration: REST API
 
